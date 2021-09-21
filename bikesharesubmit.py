@@ -12,6 +12,7 @@ import calendar
 import click
 import os
 
+os.getcwd()
 os.chdir(C:/Users/Ahmed/Training course 2/UDACITY/Project 1)
 
 CITY_DATA = { 'chicago': 'chicago.csv',
