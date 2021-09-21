@@ -12,7 +12,7 @@ import calendar
 import click
 import os
 
-os.chdir(r'C:\Users\Ahmed\Training course 2\UDACITY\Project 1)
+os.chdir(C:\\Users\\Ahmed\\Training course 2\\UDACITY\\Project 1)
 
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
